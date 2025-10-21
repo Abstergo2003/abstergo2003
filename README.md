@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on:
-  Remastering my DnD GM Tools in Tauri and React
-  Completing local password manager app prototype
+ - Remastering my DnD GM Tools in Tauri and React
+ - Completing local password manager app prototype
 
 - 🌱 I’m currently learning ...
   Advanced algorithms
